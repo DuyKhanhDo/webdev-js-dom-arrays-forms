@@ -1,3 +1,7 @@
-function init(){
-    document.getElementById("myheading").innerHTML="Keith"
-}
+//IIET
+(function (){
+//start
+document.getElementById("myheading").innerHTML="Keith"
+
+//end
+})()
