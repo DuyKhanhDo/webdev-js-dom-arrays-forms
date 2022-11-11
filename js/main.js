@@ -1,1 +1,3 @@
-document.getElementById("myheading").innerHTML="Keith"
+function init(){
+    document.getElementById("myheading").innerHTML="Keith"
+}
